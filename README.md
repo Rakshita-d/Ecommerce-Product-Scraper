@@ -18,6 +18,14 @@ Projects Included
 - Scrapes multiple pages.
 - Saves product details into a CSV file.
 
+  ## Project Screenshots
+
+### Amazon Product Scraper
+![Amazon Output](Screenshots/amazon_output.png)
+
+### Practice Website Scraper
+![Practice Output](Screenshots/practice_output.png)
+
 Technologies Used
 
 - Python
