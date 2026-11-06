@@ -21,10 +21,10 @@ Projects Included
   ## Project Screenshots
 
 ### Amazon Product Scraper
-![Amazon Output](Screenshots/amazon_output.png)
+![Amazon Output](amazon file.png)
 
 ### Practice Website Scraper
-![Practice Output](Screenshots/practice_output.png)
+![Practice Output](practice file.png)
 
 Technologies Used
 
